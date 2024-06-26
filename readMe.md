@@ -16,7 +16,7 @@ Ensure you have Python 3.8+ installed. Then, create a virtual environment and in
 All the dataset are from RoboFlow Universe:
 let's see a sample of training dataset 
 📸 Training Sample
-![Random Sample](outputTraining.PNG)
+![Random Sample](OutputTraining.PNG)
 
 4. **CNN model summary**: 
 Here is a total suammary of cnn model archuiture 
@@ -28,10 +28,12 @@ Here are some sample images you can use to test the object detection capabilitie
 
 1. 🕶️ Confussion matrix
 ![CM](Confussionmatrixx.PNG)
+
 2. 🤖 Accuracy Report
 ![report](cnnreportt.PNG)
+
 3. 😎 Test Sample
-![random sample](outputtest.PNG)
+![random sample](outputTest.PNG)
 # Hope you enjoy my project 😄
 
 
