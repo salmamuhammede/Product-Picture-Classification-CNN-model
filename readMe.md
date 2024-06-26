@@ -29,7 +29,7 @@ Here are some sample images you can use to test the object detection capabilitie
 1. 🕶️ Confussion matrix
 ![CM](Confussionmatrix.PNG)
 2. 🤖 Accuracy Report
-![report](cnnreport.PNG)
+![report](cnnreportt.PNG)
 3. 😎 Test Sample
 ![random sample](outputtest.PNG)
 # Hope you enjoy my project 😄
