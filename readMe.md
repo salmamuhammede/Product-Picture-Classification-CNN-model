@@ -27,7 +27,7 @@ Here is a total suammary of cnn model archuiture
 Here are some sample images you can use to test the object detection capabilities of the app. Download and upload these images to see the model in action:
 
 1. 🕶️ Confussion matrix
-![CM](Confussionmatrix.PNG)
+![CM](Confussionmatrixx.PNG)
 2. 🤖 Accuracy Report
 ![report](cnnreportt.PNG)
 3. 😎 Test Sample
