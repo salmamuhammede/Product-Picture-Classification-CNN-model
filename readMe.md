@@ -6,7 +6,7 @@ Welcome to our Clothing Store Classifier app! This application leverages a pre-t
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/salmamuhammede/Face-Detection-and-Blurring-Streamlit-app.git
+   git clone https://github.com/salmamuhammede/Product-Picture-Classification-CNN-model.git
    cd repository
 
 2. **Install Dependencies**:
