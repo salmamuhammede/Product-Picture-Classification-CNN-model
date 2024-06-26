@@ -1,6 +1,6 @@
 # 👕 Product Picture Classification
 
-Welcome to our Clothing Store Classifier app! This application leverages a pre-trained Haar cascade model to detect clothing items in uploaded images and classify them into categories. Let's get started! 📸
+Welcome to our Clothing Store Classifier app! This application leverages a pre-trained CNN model to Classify clothing items in uploaded images and classify them into categories. Let's get started! 📸
 
 ## 🛠️ Installation
 
